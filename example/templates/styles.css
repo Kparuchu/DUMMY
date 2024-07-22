@@ -1,0 +1,30 @@
+
+body {
+    background-color: #f0f0f0;
+    padding-top: 60px; 
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-5 {
+    margin-top: 3rem !important;
+}
+
+.mb-4 {
+    margin-bottom: 2rem !important;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
